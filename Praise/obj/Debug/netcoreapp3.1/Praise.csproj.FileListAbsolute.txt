@@ -1,0 +1,400 @@
+C:\Users\micael\dev\ADJ\Api\Praise\obj\Debug\netcoreapp3.1\Praise.AssemblyInfoInputs.cache
+C:\Users\micael\dev\ADJ\Api\Praise\obj\Debug\netcoreapp3.1\Praise.AssemblyInfo.cs
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Praise.exe
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Praise.deps.json
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Praise.runtimeconfig.json
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Praise.runtimeconfig.dev.json
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Praise.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Praise.pdb
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Flunt.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\micael\dev\ADJ\Api\Praise\obj\Debug\netcoreapp3.1\Praise.RazorTargetAssemblyInfo.cache
+C:\Users\micael\dev\ADJ\Api\Praise\obj\Debug\netcoreapp3.1\Praise.csproj.CopyComplete
+C:\Users\micael\dev\ADJ\Api\Praise\obj\Debug\netcoreapp3.1\staticwebassets\Praise.StaticWebAssets.Manifest.cache
+C:\Users\micael\dev\ADJ\Api\Praise\obj\Debug\netcoreapp3.1\staticwebassets\Praise.StaticWebAssets.xml
+C:\Users\micael\dev\ADJ\Api\Praise\obj\Debug\netcoreapp3.1\Praise.dll
+C:\Users\micael\dev\ADJ\Api\Praise\obj\Debug\netcoreapp3.1\Praise.pdb
+C:\Users\micael\dev\ADJ\Api\Praise\obj\Debug\netcoreapp3.1\Praise.genruntimeconfig.cache
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\micael\dev\ADJ\Api\Praise\obj\Debug\netcoreapp3.1\Praise.csprojAssemblyReference.cache
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\micael\dev\ADJ\Api\Praise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\micael\dev\ADJ\Api\Praise\obj\Debug\netcoreapp3.1\Praise.csproj.CoreCompileInputs.cache
+C:\Users\micael\dev\ADJ\Api\Praise\obj\Debug\netcoreapp3.1\Praise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Praise.exe
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Praise.deps.json
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Praise.runtimeconfig.json
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Praise.runtimeconfig.dev.json
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Praise.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Praise.pdb
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Flunt.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.csprojAssemblyReference.cache
+C:\Users\micael\Desktop\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.AssemblyInfoInputs.cache
+C:\Users\micael\Desktop\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.AssemblyInfo.cs
+C:\Users\micael\Desktop\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.csproj.CoreCompileInputs.cache
+C:\Users\micael\Desktop\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\micael\Desktop\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.RazorTargetAssemblyInfo.cache
+C:\Users\micael\Desktop\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.csproj.CopyComplete
+C:\Users\micael\Desktop\PraiseApi\Praise\obj\Debug\netcoreapp3.1\staticwebassets\Praise.StaticWebAssets.Manifest.cache
+C:\Users\micael\Desktop\PraiseApi\Praise\obj\Debug\netcoreapp3.1\staticwebassets\Praise.StaticWebAssets.xml
+C:\Users\micael\Desktop\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.dll
+C:\Users\micael\Desktop\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.pdb
+C:\Users\micael\Desktop\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.genruntimeconfig.cache
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Praise.exe
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Praise.deps.json
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Praise.runtimeconfig.json
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Praise.runtimeconfig.dev.json
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Praise.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Praise.pdb
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Flunt.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.csprojAssemblyReference.cache
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.AssemblyInfoInputs.cache
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.AssemblyInfo.cs
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.csproj.CoreCompileInputs.cache
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.RazorTargetAssemblyInfo.cache
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.csproj.CopyComplete
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\obj\Debug\netcoreapp3.1\staticwebassets\Praise.StaticWebAssets.Manifest.cache
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\obj\Debug\netcoreapp3.1\staticwebassets\Praise.StaticWebAssets.xml
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.pdb
+C:\Users\micael\dev\PRAISE\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.genruntimeconfig.cache
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.csprojAssemblyReference.cache
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.AssemblyInfoInputs.cache
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.AssemblyInfo.cs
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.csproj.CoreCompileInputs.cache
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.pdb
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Praise.exe
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Praise.deps.json
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Praise.runtimeconfig.json
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Praise.runtimeconfig.dev.json
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Praise.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Flunt.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.RazorTargetAssemblyInfo.cache
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.csproj.CopyComplete
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\obj\Debug\netcoreapp3.1\staticwebassets\Praise.StaticWebAssets.Manifest.cache
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\obj\Debug\netcoreapp3.1\staticwebassets\Praise.StaticWebAssets.xml
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\obj\Debug\netcoreapp3.1\Praise.genruntimeconfig.cache
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\Praise.pdb
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\ElmahCore.Mvc.dll
+C:\Users\micael\dev\ADJ\PraiseApi\Praise\bin\Debug\netcoreapp3.1\ElmahCore.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Praise.exe
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Praise.deps.json
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Praise.runtimeconfig.json
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Praise.runtimeconfig.dev.json
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Praise.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Praise.pdb
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\ElmahCore.Mvc.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\ElmahCore.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Flunt.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.csprojAssemblyReference.cache
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.AssemblyInfoInputs.cache
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.AssemblyInfo.cs
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.csproj.CoreCompileInputs.cache
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.RazorTargetAssemblyInfo.cache
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.csproj.CopyComplete
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\staticwebassets\Praise.StaticWebAssets.Manifest.cache
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\staticwebassets\Praise.StaticWebAssets.xml
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.dll
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.pdb
+C:\Users\micael\dev\PRAISE\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.genruntimeconfig.cache
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Praise.exe
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Praise.deps.json
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Praise.runtimeconfig.json
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Praise.runtimeconfig.dev.json
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Praise.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Praise.pdb
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\ElmahCore.Mvc.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\ElmahCore.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Flunt.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.csprojAssemblyReference.cache
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.AssemblyInfoInputs.cache
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.AssemblyInfo.cs
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.csproj.CoreCompileInputs.cache
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\staticwebassets\Praise.StaticWebAssets.Manifest.cache
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\staticwebassets\Praise.StaticWebAssets.xml
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\scopedcss\bundle\Praise.styles.css
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.RazorTargetAssemblyInfo.cache
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.csproj.CopyComplete
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.dll
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.pdb
+C:\Users\micael\dev\adj\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.genruntimeconfig.cache
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Praise.exe
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Praise.deps.json
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Praise.runtimeconfig.json
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Praise.runtimeconfig.dev.json
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Praise.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Praise.pdb
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\ElmahCore.Mvc.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\ElmahCore.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Flunt.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.csprojAssemblyReference.cache
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.AssemblyInfoInputs.cache
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.AssemblyInfo.cs
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.csproj.CoreCompileInputs.cache
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\staticwebassets\Praise.StaticWebAssets.Manifest.cache
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\staticwebassets\Praise.StaticWebAssets.xml
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\scopedcss\bundle\Praise.styles.css
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.RazorTargetAssemblyInfo.cache
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.csproj.CopyComplete
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.dll
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.pdb
+C:\Users\micael\dev\- PRAISE\PraiseApi\beta\Praise\obj\Debug\netcoreapp3.1\Praise.genruntimeconfig.cache
